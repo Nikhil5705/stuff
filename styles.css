@@ -1,5 +1,6 @@
 #navigation{
-   
+   background-color: #FFFAF0
+   ;
 
 }
 #nav-pills{
@@ -8,9 +9,11 @@
 }
 .nav-element{
     text-decoration: none;
+    color: #F6AD55;
 
 }
 #navigation .nav-list{
  display: inline-block;
  padding: 1rem 2rem;
+ text-align: left;
 }
